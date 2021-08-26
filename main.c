@@ -1,6 +1,8 @@
 int main(void) {
 
-    // This is a test
+    // TESTING UPDATE 
+    char x = 'y';
+    // END TESTING UPDATE
 
     int a = 4;
     int b = 7;
