@@ -10,8 +10,9 @@ int main(void) {
 
     // This is a test
 
-    second(a);
+
     int a = 4;
+    second(a);
     int b = 7;
 
     return (a+b);
